@@ -1,0 +1,7 @@
+"SRAMCell layout MemArray" "SRAMCell schematic MemArray" "g45n1svt(MOS)" "g45p1svt(MOS)"
+"SenseAmplifier layout MemArray" "SenseAmplifier schematic MemArray" "g45n1svt(MOS)" "g45p1svt(MOS)"
+"g45p1svt(MOS)" "g45p1svt(MOS)"
+"g45n1svt(MOS)" "g45n1svt(MOS)"
+"Array layout MemArray" "Array schematic MemArray"
+Devices filtered from layout
+"TIE"

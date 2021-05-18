@@ -1,0 +1,25 @@
+;----------------------------------------------------------------------------
+; @(#)$CDS: assura version av4.1:Production:dfII6.1.7-64b:IC6.1.7-64b.78 03/22/16 21:38 (sjfnl623) $
+; sub-version 4.1_USR5_HF2
+;----------------------------------------------------------------------------
+
+
+;----------------------------------------------------------------------------
+; avParameter Section
+; Created by the Assura UI
+;----------------------------------------------------------------------------
+
+avParameters(
+  ?inputLayout ( "df2" "MemArray" )
+  ?cellName "SenseAmplifier"
+  ?viewName "layout"
+  ?runName "ASSURA_DRC_RUN_SenseAmp"
+  ?workingDirectory "./MemArray_drc"
+  ?technology "gpdk045_av"
+  ?techLib "/mnt/software/cadence/installs/GPDK045/gpdk045_v_5_0/assura_tech.lib"
+  ?avrpt t
+  ?dbuPerUU 2000.0
+  ?flagNon45 t
+  ?flagOffGrid (0.005 1.0)
+  ?joinPins top
+)

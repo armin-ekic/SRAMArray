@@ -1,0 +1,9 @@
+Schematic                        | Layout                         | Status
+-------------------------------------------------------------------------------
+SenseAmplifier schematic MemArray| SenseAmplifier layout MemArray | matched 
+SRAMCell schematic MemArray      | SRAMCell layout MemArray       | matched 
+Array schematic MemArray         | Array layout MemArray          | errors   *
+
+Mismatch between Schematic and Layout
+   1 cell with errors
+   2 cells matched

@@ -1,0 +1,130 @@
+*WARNING* Nets C2 and C1 are associated with the same label "vdd!" at (0.6000, 19.4500). See .erc file  for  details.
+*WARNING* Nets C3 and C1 are associated with the same label "vdd!" at (0.6000, 23.4500). See .erc file  for  details.
+*WARNING* Nets C8 and C1 are associated with the same label "vdd!" at (5.8000, 27.6500). See .erc file  for  details.
+*WARNING* 3 same-label  warnings found in cell 'Array layout MemArray'.
+*WARNING* Nets C3 and C1 are associated with the same label "vdd!" at (0.6000, 15.4500). See .erc file  for  details.
+*WARNING* Nets C4 and C1 are associated with the same label "vdd!" at (0.6000, 19.4500). See .erc file  for  details.
+*WARNING* Nets C5 and C2 are associated with the same label "gnd!" at (11.7000, 11.6500). See .erc file  for  details.
+*WARNING* Nets C6 and C1 are associated with the same label "vdd!" at (0.6000, 23.4500). See .erc file  for  details.
+*WARNING* Nets C7 and C2 are associated with the same label "gnd!" at (10.9500, 15.6500). See .erc file  for  details.
+*WARNING* Nets C10 and C2 are associated with the same label "gnd!" at (10.9500, 19.6500). See .erc file  for  details.
+*WARNING* Nets C13 and C1 are associated with the same label "vdd!" at (5.8000, 27.6500). See .erc file  for  details.
+*WARNING* Nets C15 and C2 are associated with the same label "gnd!" at (10.9500, 23.7000). See .erc file  for  details.
+*WARNING* 8 same-label  warnings found in cell 'Array layout MemArray'.
+*WARNING* Nets C3 and C1 are associated with the same label "vdd!" at (0.6000, 15.4500). See .erc file  for  details.
+*WARNING* Nets C4 and C1 are associated with the same label "vdd!" at (0.6000, 19.4500). See .erc file  for  details.
+*WARNING* Nets C5 and C2 are associated with the same label "gnd!" at (11.7000, 11.6500). See .erc file  for  details.
+*WARNING* Nets C6 and C1 are associated with the same label "vdd!" at (0.6000, 23.4500). See .erc file  for  details.
+*WARNING* Nets C7 and C2 are associated with the same label "gnd!" at (10.9500, 15.6500). See .erc file  for  details.
+*WARNING* Nets C10 and C2 are associated with the same label "gnd!" at (10.9500, 19.6500). See .erc file  for  details.
+*WARNING* Nets C13 and C1 are associated with the same label "vdd!" at (5.8000, 27.6500). See .erc file  for  details.
+*WARNING* Nets C15 and C2 are associated with the same label "gnd!" at (10.9500, 23.7000). See .erc file  for  details.
+*WARNING* 8 same-label  warnings found in cell 'Array layout MemArray'.
+*WARNING* Nets C3 and C2 are associated with the same label "vdd!" at (5.7400, 14.6500). See .erc file  for  details.
+*WARNING* Nets C4 and C1 are associated with the same label "gnd!" at (11.7000, 11.6500). See .erc file  for  details.
+*WARNING* Nets C5 and C2 are associated with the same label "vdd!" at (5.7400, 18.6500). See .erc file  for  details.
+*WARNING* Nets C6 and C1 are associated with the same label "gnd!" at (10.9500, 15.6500). See .erc file  for  details.
+*WARNING* Nets C8 and C2 are associated with the same label "vdd!" at (5.8000, 22.6500). See .erc file  for  details.
+*WARNING* Nets C10 and C1 are associated with the same label "gnd!" at (10.9500, 19.6500). See .erc file  for  details.
+*WARNING* Nets C12 and C2 are associated with the same label "vdd!" at (5.7400, 26.6900). See .erc file  for  details.
+*WARNING* Nets C15 and C1 are associated with the same label "gnd!" at (10.9500, 23.7000). See .erc file  for  details.
+*WARNING* 8 same-label  warnings found in cell 'Array layout MemArray'.
+*WARNING* Nets C3 and C2 are associated with the same label "vdd!" at (5.7500, 14.6500). See .erc file  for  details.
+*WARNING* Nets C4 and C1 are associated with the same label "gnd!" at (11.7000, 11.6500). See .erc file  for  details.
+*WARNING* Nets C5 and C2 are associated with the same label "vdd!" at (5.7500, 18.6500). See .erc file  for  details.
+*WARNING* Nets C6 and C1 are associated with the same label "gnd!" at (10.9500, 15.6500). See .erc file  for  details.
+*WARNING* Nets C8 and C2 are associated with the same label "vdd!" at (5.8000, 22.6500). See .erc file  for  details.
+*WARNING* Nets C10 and C1 are associated with the same label "gnd!" at (10.9500, 19.6500). See .erc file  for  details.
+*WARNING* Nets C12 and C2 are associated with the same label "vdd!" at (5.7500, 26.6900). See .erc file  for  details.
+*WARNING* Nets C15 and C1 are associated with the same label "gnd!" at (10.9500, 23.7000). See .erc file  for  details.
+*WARNING* 8 same-label  warnings found in cell 'Array layout MemArray'.
+*WARNING* Nets C3 and C2 are associated with the same label "vdd!" at (5.7500, 14.6500). See .erc file  for  details.
+*WARNING* Nets C4 and C1 are associated with the same label "gnd!" at (11.7000, 11.6500). See .erc file  for  details.
+*WARNING* Nets C5 and C2 are associated with the same label "vdd!" at (5.7500, 18.6500). See .erc file  for  details.
+*WARNING* Nets C6 and C1 are associated with the same label "gnd!" at (10.9500, 15.6500). See .erc file  for  details.
+*WARNING* Nets C8 and C2 are associated with the same label "vdd!" at (5.8000, 22.6500). See .erc file  for  details.
+*WARNING* Nets C10 and C1 are associated with the same label "gnd!" at (10.9500, 19.6500). See .erc file  for  details.
+*WARNING* Nets C12 and C2 are associated with the same label "vdd!" at (5.7500, 26.6900). See .erc file  for  details.
+*WARNING* Nets C15 and C1 are associated with the same label "gnd!" at (10.9500, 23.7000). See .erc file  for  details.
+*WARNING* 8 same-label  warnings found in cell 'Array layout MemArray'.
+*WARNING* Nets C3 and C2 are associated with the same label "vdd!" at (5.7500, 14.6500). See .erc file  for  details.
+*WARNING* Nets C4 and C1 are associated with the same label "gnd!" at (11.7000, 11.6500). See .erc file  for  details.
+*WARNING* Nets C5 and C2 are associated with the same label "vdd!" at (5.7500, 18.6500). See .erc file  for  details.
+*WARNING* Nets C6 and C1 are associated with the same label "gnd!" at (10.9500, 15.6500). See .erc file  for  details.
+*WARNING* Nets C8 and C2 are associated with the same label "vdd!" at (5.8000, 22.6500). See .erc file  for  details.
+*WARNING* Nets C10 and C1 are associated with the same label "gnd!" at (10.9500, 19.6500). See .erc file  for  details.
+*WARNING* Nets C12 and C2 are associated with the same label "vdd!" at (5.7500, 26.6900). See .erc file  for  details.
+*WARNING* Nets C15 and C1 are associated with the same label "gnd!" at (10.9500, 23.7000). See .erc file  for  details.
+*WARNING* 8 same-label  warnings found in cell 'Array layout MemArray'.
+*WARNING* Nets C3 and C2 are associated with the same label "vdd!" at (5.7500, 14.6500). See .erc file  for  details.
+*WARNING* Nets C4 and C1 are associated with the same label "gnd!" at (11.7000, 11.6500). See .erc file  for  details.
+*WARNING* Nets C5 and C2 are associated with the same label "vdd!" at (5.7500, 18.6500). See .erc file  for  details.
+*WARNING* Nets C6 and C1 are associated with the same label "gnd!" at (10.9500, 15.6500). See .erc file  for  details.
+*WARNING* Nets C8 and C2 are associated with the same label "vdd!" at (5.8000, 22.6500). See .erc file  for  details.
+*WARNING* Nets C10 and C1 are associated with the same label "gnd!" at (10.9500, 19.6500). See .erc file  for  details.
+*WARNING* Nets C12 and C2 are associated with the same label "vdd!" at (5.7500, 26.6900). See .erc file  for  details.
+*WARNING* Nets C15 and C1 are associated with the same label "gnd!" at (10.9500, 23.7000). See .erc file  for  details.
+*WARNING* 8 same-label  warnings found in cell 'Array layout MemArray'.
+*WARNING* Nets C3 and C2 are associated with the same label "vdd!" at (5.7500, 14.6500). See .erc file  for  details.
+*WARNING* Nets C4 and C1 are associated with the same label "gnd!" at (11.7000, 11.6500). See .erc file  for  details.
+*WARNING* Nets C5 and C2 are associated with the same label "vdd!" at (5.7500, 18.6500). See .erc file  for  details.
+*WARNING* Nets C6 and C1 are associated with the same label "gnd!" at (10.9500, 15.6500). See .erc file  for  details.
+*WARNING* Nets C8 and C2 are associated with the same label "vdd!" at (5.8000, 22.6500). See .erc file  for  details.
+*WARNING* Nets C10 and C1 are associated with the same label "gnd!" at (10.9500, 19.6500). See .erc file  for  details.
+*WARNING* Nets C12 and C2 are associated with the same label "vdd!" at (5.7500, 26.6900). See .erc file  for  details.
+*WARNING* Nets C15 and C1 are associated with the same label "gnd!" at (10.9500, 23.7000). See .erc file  for  details.
+*WARNING* 8 same-label  warnings found in cell 'Array layout MemArray'.
+*WARNING* Nets C3 and C2 are associated with the same label "vdd!" at (5.7500, 14.6500). See .erc file  for  details.
+*WARNING* Nets C4 and C1 are associated with the same label "gnd!" at (11.7000, 11.6500). See .erc file  for  details.
+*WARNING* Nets C5 and C2 are associated with the same label "vdd!" at (5.7500, 18.6500). See .erc file  for  details.
+*WARNING* Nets C6 and C1 are associated with the same label "gnd!" at (10.9500, 15.6500). See .erc file  for  details.
+*WARNING* Nets C8 and C2 are associated with the same label "vdd!" at (5.8000, 22.6500). See .erc file  for  details.
+*WARNING* Nets C10 and C1 are associated with the same label "gnd!" at (10.9500, 19.6500). See .erc file  for  details.
+*WARNING* Nets C12 and C2 are associated with the same label "vdd!" at (5.7500, 26.6900). See .erc file  for  details.
+*WARNING* Nets C15 and C1 are associated with the same label "gnd!" at (10.9500, 23.7000). See .erc file  for  details.
+*WARNING* 8 same-label  warnings found in cell 'Array layout MemArray'.
+*WARNING* Nets C3 and C2 are associated with the same label "vdd!" at (5.7500, 14.6500). See .erc file  for  details.
+*WARNING* Nets C4 and C1 are associated with the same label "gnd!" at (11.7000, 11.6500). See .erc file  for  details.
+*WARNING* Nets C5 and C2 are associated with the same label "vdd!" at (5.7500, 18.6500). See .erc file  for  details.
+*WARNING* Nets C6 and C1 are associated with the same label "gnd!" at (10.9500, 15.6500). See .erc file  for  details.
+*WARNING* Nets C8 and C2 are associated with the same label "vdd!" at (5.8000, 22.6500). See .erc file  for  details.
+*WARNING* Nets C10 and C1 are associated with the same label "gnd!" at (10.9500, 19.6500). See .erc file  for  details.
+*WARNING* Nets C12 and C2 are associated with the same label "vdd!" at (5.7500, 26.6900). See .erc file  for  details.
+*WARNING* Nets C15 and C1 are associated with the same label "gnd!" at (10.9500, 23.7000). See .erc file  for  details.
+*WARNING* 8 same-label  warnings found in cell 'Array layout MemArray'.
+*WARNING* Nets C3 and C2 are associated with the same label "vdd!" at (5.7500, 14.6500). See .erc file  for  details.
+*WARNING* Nets C4 and C1 are associated with the same label "gnd!" at (11.7000, 11.6500). See .erc file  for  details.
+*WARNING* Nets C5 and C2 are associated with the same label "vdd!" at (5.7500, 18.6500). See .erc file  for  details.
+*WARNING* Nets C6 and C1 are associated with the same label "gnd!" at (10.9500, 15.6500). See .erc file  for  details.
+*WARNING* Nets C8 and C2 are associated with the same label "vdd!" at (5.8000, 22.6500). See .erc file  for  details.
+*WARNING* Nets C10 and C1 are associated with the same label "gnd!" at (10.9500, 19.6500). See .erc file  for  details.
+*WARNING* Nets C12 and C2 are associated with the same label "vdd!" at (5.7500, 26.6900). See .erc file  for  details.
+*WARNING* Nets C15 and C1 are associated with the same label "gnd!" at (10.9500, 23.7000). See .erc file  for  details.
+*WARNING* 8 same-label  warnings found in cell 'Array layout MemArray'.
+*WARNING* Nets C3 and C2 are associated with the same label "vdd!" at (5.7500, 14.6500). See .erc file  for  details.
+*WARNING* Nets C4 and C1 are associated with the same label "gnd!" at (11.7000, 11.6500). See .erc file  for  details.
+*WARNING* Nets C5 and C2 are associated with the same label "vdd!" at (5.7500, 18.6500). See .erc file  for  details.
+*WARNING* Nets C6 and C1 are associated with the same label "gnd!" at (10.9500, 15.6500). See .erc file  for  details.
+*WARNING* Nets C8 and C2 are associated with the same label "vdd!" at (5.8000, 22.6500). See .erc file  for  details.
+*WARNING* Nets C10 and C1 are associated with the same label "gnd!" at (10.9500, 19.6500). See .erc file  for  details.
+*WARNING* Nets C12 and C2 are associated with the same label "vdd!" at (5.7500, 26.6900). See .erc file  for  details.
+*WARNING* Nets C15 and C1 are associated with the same label "gnd!" at (10.9500, 23.7000). See .erc file  for  details.
+*WARNING* 8 same-label  warnings found in cell 'Array layout MemArray'.
+*WARNING* Nets C3 and C2 are associated with the same label "vdd!" at (5.7500, 14.6500). See .erc file  for  details.
+*WARNING* Nets C4 and C1 are associated with the same label "gnd!" at (11.7000, 11.6500). See .erc file  for  details.
+*WARNING* Nets C5 and C2 are associated with the same label "vdd!" at (5.7500, 18.6500). See .erc file  for  details.
+*WARNING* Nets C6 and C1 are associated with the same label "gnd!" at (10.9500, 15.6500). See .erc file  for  details.
+*WARNING* Nets C8 and C2 are associated with the same label "vdd!" at (5.8000, 22.6500). See .erc file  for  details.
+*WARNING* Nets C10 and C1 are associated with the same label "gnd!" at (10.9500, 19.6500). See .erc file  for  details.
+*WARNING* Nets C12 and C2 are associated with the same label "vdd!" at (5.7500, 26.6900). See .erc file  for  details.
+*WARNING* Nets C15 and C1 are associated with the same label "gnd!" at (10.9500, 23.7000). See .erc file  for  details.
+*WARNING* 8 same-label  warnings found in cell 'Array layout MemArray'.
+*WARNING* Nets C3 and C2 are associated with the same label "vdd!" at (5.7500, 14.6500). See .erc file  for  details.
+*WARNING* Nets C4 and C2 are associated with the same label "vdd!" at (5.7500, 18.6500). See .erc file  for  details.
+*WARNING* Nets C6 and C2 are associated with the same label "vdd!" at (5.8000, 22.6500). See .erc file  for  details.
+*WARNING* Nets C9 and C2 are associated with the same label "vdd!" at (5.7500, 26.6900). See .erc file  for  details.
+*WARNING* 4 same-label  warnings found in cell 'Array layout MemArray'.
+*WARNING* Nets C3 and C2 are associated with the same label "vdd!" at (5.7500, 14.6500). See .erc file  for  details.
+*WARNING* Nets C4 and C2 are associated with the same label "vdd!" at (5.7500, 18.6500). See .erc file  for  details.
+*WARNING* Nets C6 and C2 are associated with the same label "vdd!" at (5.8000, 22.6500). See .erc file  for  details.
+*WARNING* 3 same-label  warnings found in cell 'Array layout MemArray'.

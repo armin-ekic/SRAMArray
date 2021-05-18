@@ -1,0 +1,28 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'SenseAmplifier layout MemArray':
+  info: Assign pin label "EQ" at (1.2200, -1.7000) to layer `poly_conn'.
+  info: Assign pin label "SE" at (1.1900, -0.5700) to layer `poly_conn'.
+  info: Assign pin label "SEn" at (1.1600, 2.1800) to layer `poly_conn'.
+  info: Assign pin label "gnd!" at (1.3300, -0.7200) to layer `metal1_conn'.
+  info: Assign pin label "BLn" at (0.0600, 0.7700) to layer `metal1_conn'.
+  info: Assign pin label "BL" at (2.2000, 0.7800) to layer `metal1_conn'.
+  info: Assign pin label "vdd!" at (1.0300, 2.3200) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'SenseAmplifier layout MemArray':
+  info: Assign pin label "EQ" at (1.2200, -1.7000) to layer `poly_conn'.
+  info: Assign pin label "SE" at (1.1900, -0.5700) to layer `poly_conn'.
+  info: Assign pin label "SEn" at (1.1600, 2.1800) to layer `poly_conn'.
+  info: Assign pin label "gnd!" at (1.3300, -0.7200) to layer `metal1_conn'.
+  info: Assign pin label "BLn" at (0.0600, 0.7700) to layer `metal1_conn'.
+  info: Assign pin label "BL" at (2.2000, 0.7800) to layer `metal1_conn'.
+  info: Assign pin label "vdd!" at (1.0300, 2.3200) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

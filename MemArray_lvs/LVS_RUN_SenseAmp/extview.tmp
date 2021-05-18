@@ -1,0 +1,137 @@
+*
+*
+*
+*                       LINUX           Sun Apr 25 13:34:13 2021
+*
+*
+*
+*  PROGRAM  advgen
+*
+*  Name           : advgen - Quantus - (64-bit)
+*  Version        : 18.2.0-p078
+*  Build Date     : Sun Sep 30 08:14:52 PDT 2018
+*
+*  HSPICE LIBRARY
+*
+*!LENGTH_UNITS METERS
+*
+*
+*
+
+*
+.SUBCKT SenseAmplifier vdd! gnd! EQ SE SEn BL BLn
+*
+*
+*  caps2d version: 10
+*
+*
+*       TRANSISTOR CARDS
+*
+*
+MavD2_1	BL#9	EQ#1	BLn#9	gnd!#1	nmos1v#20ivpcell#20gpdk045	L=9e-08
++ W=1.2e-07
++ AD=1.68e-14	AS=1.68e-14	PD=5.2e-07	PS=5.2e-07
++ scc=0.000445558 scb=0.0116656 sca=10.627 sb=1.4e-07 sa=1.4e-07
+MavD2_2	gnd!#2	SE#1	avC8#4	gnd!#1	nmos1v#20ivpcell#20gpdk045	L=9e-08
++ W=1.2e-07
++ AD=1.68e-14	AS=1.68e-14	PD=5.2e-07	PS=5.2e-07
++ scc=1.06962e-09 scb=4.14593e-05 sca=2.22736 sb=1.4e-07 sa=1.4e-07
+MavD2_3	BL#8	BLn#4	avC8	gnd!#1	nmos1v#20ivpcell#20gpdk045	L=9e-08
++ W=2.4e-07
++ AD=3.36e-14	AS=3.36e-14	PD=7.6e-07	PS=7.6e-07
++ scc=4.11489e-06 scb=0.00152104 sca=3.55904 sb=1.4e-07 sa=1.4e-07
+MavD2_4	avC8#3	BL#3	BLn#8	gnd!#1	nmos1v#20ivpcell#20gpdk045	L=9e-08
++ W=2.4e-07
++ AD=3.36e-14	AS=3.36e-14	PD=7.6e-07	PS=7.6e-07
++ scc=3.12626e-06 scb=0.00134231 sca=3.43088 sb=1.4e-07 sa=1.4e-07
+MavD10_1	avC9#3	BL#1	BLn#5	vdd!#1	pmos1v#20ivpcell#20gpdk045
++ L=9e-08	W=1.2e-07
++ AD=1.68e-14	AS=1.68e-14	PD=5.2e-07	PS=5.2e-07
++ scc=0.00795893 scb=0.0473748 sca=58.1577 sb=1.4e-07 sa=1.4e-07
+MavD10_2	avC9#4	SEn#1	vdd!#2	vdd!#1	pmos1v#20ivpcell#20gpdk045
++ L=9e-08	W=1.2e-07
++ AD=1.68e-14	AS=1.68e-14	PD=5.2e-07	PS=5.2e-07
++ scc=2.28682e-07 scb=0.000746187 sca=5.49284 sb=1.4e-07 sa=1.4e-07
+MavD10_3	BL#5	BLn#1	avC9	vdd!#1	pmos1v#20ivpcell#20gpdk045
++ L=9e-08	W=1.2e-07
++ AD=1.68e-14	AS=1.68e-14	PD=5.2e-07	PS=5.2e-07
++ scc=0.00788916 scb=0.0468713 sca=57.7644 sb=1.4e-07 sa=1.4e-07
+*
+*
+*       RESISTOR AND CAP/DIODE CARDS
+*
+Rk1	vdd!	vdd!#1	   18.8986	$X=1.03 $Y=2.3905
+Rk2	vdd!	vdd!#2	   62.2715	$X=1.03 $Y=2.1195
+Rk3	BLn#5	BLn#6	   62.2565	$X=0.52 $Y=0.965
+Rk4	BLn#6	BLn	    0.2796	$X=0.29 $Y=0.77
+Rk5	BLn#6	BLn#7	6.532e-02	$X=0.5195 $Y=0.74
+Rk6	BLn#7	BLn#8	   37.6593	$X=0.52 $Y=0.6125
+Rk7	BLn	BLn#9	   77.0147	$X=0.06 $Y=-0.315
+Rk8	BLn#7	BLn#3	    0.4267	$X=0.935 $Y=0.71
+Rk9	gnd!	gnd!#1	   15.6170	$X=1.33 $Y=-0.7655
+Rk10	gnd!	gnd!#2	   75.2715	$X=1.33 $Y=-0.5195
+Rk11	avC8	avC8#2	   38.0567	$X=1.525 $Y=0.23
+Rk12	avC8#2	avC8#3	   37.9715	$X=0.925 $Y=0.05
+Rk13	avC8#2	avC8#4	   75.1991	$X=1.08 $Y=-0.12
+Rk14	avC9	avC9#2	   62.4419	$X=1.525 $Y=1.38
+Rk15	avC9#2	avC9#3	   62.6104	$X=1.025 $Y=1.6
+Rk16	avC9#2	avC9#4	   62.1675	$X=1.28 $Y=1.745
+Rk17	BL#5	BL#6	   62.1537	$X=1.775 $Y=1.0575
+Rk18	BL#6	BL#4	    0.4215	$X=1.3625 $Y=0.94
+Rk19	BL#6	BL#7	    0.1260	$X=1.775 $Y=0.8525
+Rk20	BL#7	BL#8	   37.7059	$X=1.775 $Y=0.655
+Rk21	BL#7	BL	    0.2543	$X=1.9975 $Y=0.78
+Rk22	BL	BL#9	   76.9389	$X=2.22 $Y=-0.31
+Rl1	BL#1	BL#2	   27.4616	$X=0.645 $Y=1.043
+Rl2	BL#2	BL#3	   61.3901	$X=0.645 $Y=0.7425
+Rl3	BL#2	BL#4	   87.0603	$X=0.795 $Y=0.94
+Rl4	SEn	SEn#1	   54.7834	$X=1.16 $Y=2.065
+Rl5	SE	SE#1	   52.9596	$X=1.19 $Y=-0.46
+Rl6	EQ#1	EQ	   70.9047	$X=1.225 $Y=-1.61
+Rl7	BLn#1	BLn#2	   68.5330	$X=1.65 $Y=0.928
+Rl8	BLn#2	BLn#3	   86.1675	$X=1.5025 $Y=0.71
+Rl9	BLn#2	BLn#4	   20.3187	$X=1.65 $Y=0.6275
+*
+*       CAPACITOR CARDS
+*
+*
+C1	vdd!	gnd!	3.35131e-18	$X=1.186 $Y=0.7385
+C2	EQ	gnd!	2.33044e-17	$X=1.263 $Y=-1.278
+C3	SE	gnd!	2.26036e-17	$X=1.2385 $Y=-0.5725
+C4	SEn	gnd!	2.21217e-17	$X=1.22 $Y=1.1385
+C5	BL	gnd!	1.22325e-16	$X=1.4455 $Y=-0.56
+C6	BLn	gnd!	1.23224e-16	$X=1.169 $Y=-0.568
+C7	avC9	gnd!	3.82967e-17	$X=1.386 $Y=-0.1175
+C8	avC8	gnd!	6.09563e-17	$X=1.3655 $Y=-0.4625
+C9	BLn#1	gnd!	4.24815e-17	$X=1.427 $Y=-0.1075
+C10	SEn#1	gnd!	4.2638e-17	$X=1.271 $Y=0.2245
+C11	BL#1	gnd!	3.18328e-17	$X=1.066 $Y=0.0535
+C12	BLn#4	gnd!	3.68273e-17	$X=1.4295 $Y=-0.3085
+C13	SE#1	gnd!	5.12795e-17	$X=1.281 $Y=-0.527
+C14	EQ#1	gnd!	4.28547e-17	$X=1.293 $Y=-0.9085
+C15	BL#3	gnd!	4.84064e-17	$X=1.1515 $Y=-0.353
+C16	BLn#3	gnd!	9.66673e-17	$X=1.311 $Y=-0.3815
+C17	BL#4	gnd!	9.13453e-17	$X=1.276 $Y=-0.336
+C18	vdd!#1	gnd!	1.02033e-15	$X=1.329 $Y=-0.6505
+C19	BL#5	gnd!	2.63812e-17	$X=1.492 $Y=0.0145
+C20	avC9#4	gnd!	3.08045e-17	$X=1.31 $Y=0.226
+C21	BL#8	gnd!	3.42431e-17	$X=1.4305 $Y=-0.3885
+C22	BL#9	gnd!	1.28715e-16	$X=1.355 $Y=-0.738
+C23	avC8#4	gnd!	2.87778e-17	$X=1.2465 $Y=-0.5195
+C24	BLn#9	gnd!	1.27977e-16	$X=1.272 $Y=-0.736
+C25	vdd!#2	gnd!	2.94519e-17	$X=1.237 $Y=0.1565
+C26	avC9#3	gnd!	5.1487e-17	$X=1.1965 $Y=-0.2015
+C27	BLn#5	gnd!	3.77681e-17	$X=1.0665 $Y=-0.07
+C28	avC8#3	gnd!	5.40825e-17	$X=1.217 $Y=-0.44
+C29	BLn#8	gnd!	2.80205e-17	$X=1.1365 $Y=-0.3805
+C30	BL#2	gnd!	3.49492e-17	$X=1.124 $Y=-0.1875
+C31	BLn#2	gnd!	3.60942e-17	$X=1.4255 $Y=-0.22
+C32	BLn#7	gnd!	8.2056e-17	$X=1.178 $Y=-0.381
+C33	avC8#2	gnd!	6.87405e-17	$X=1.237 $Y=-0.4905
+C34	avC9#2	gnd!	7.61272e-17	$X=1.345 $Y=-0.1625
+C35	BL#6	gnd!	5.74167e-17	$X=1.3855 $Y=-0.2525
+C36	BL#7	gnd!	2.60217e-17	$X=1.5075 $Y=-0.088
+*
+*
+.ENDS SenseAmplifier
+*

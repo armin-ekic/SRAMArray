@@ -1,0 +1,62 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'Array layout MemArray':
+  info: Assign pin label "EQ1" at (1.5700, 6.1300) to layer `poly_conn'.
+  info: Assign pin label "SE1" at (0.9200, 7.7600) to layer `poly_conn'.
+  info: Assign pin label "EQ2" at (4.4300, 6.1300) to layer `poly_conn'.
+  info: Assign pin label "SE2" at (3.6700, 7.7550) to layer `poly_conn'.
+  info: Assign pin label "WL4" at (0.4300, 11.9500) to layer `poly_conn'.
+  info: Assign pin label "SEn1" at (2.7200, 10.5300) to layer `poly_conn'.
+  info: Assign pin label "EQ3" at (7.5300, 6.1200) to layer `poly_conn'.
+  info: Assign pin label "SE3" at (6.5300, 7.7350) to layer `poly_conn'.
+  info: Assign pin label "SEn2" at (5.5300, 10.5000) to layer `poly_conn'.
+  info: Assign pin label "WL3" at (0.2800, 15.9400) to layer `poly_conn'.
+  info: Assign pin label "EQ4" at (10.3700, 6.1300) to layer `poly_conn'.
+  info: Assign pin label "SE4" at (9.3200, 7.7400) to layer `poly_conn'.
+  info: Assign pin label "SEn3" at (8.3700, 10.5200) to layer `poly_conn'.
+  info: Assign pin label "WL2" at (0.3700, 19.9500) to layer `poly_conn'.
+  info: Assign pin label "SEn4" at (11.1700, 10.5300) to layer `poly_conn'.
+  info: Assign pin label "WL1" at (0.2800, 24.0000) to layer `poly_conn'.
+  info: Assign pin label "BLn1" at (0.9500, 27.3500) to layer `metal1_conn'.
+  info: Assign pin label "BL1" at (2.8500, 27.3500) to layer `metal1_conn'.
+  info: Assign pin label "BLn2" at (3.5500, 27.3500) to layer `metal1_conn'.
+  info: Assign pin label "BL2" at (5.4500, 27.3500) to layer `metal1_conn'.
+  info: Assign pin label "BLn3" at (6.1500, 27.3500) to layer `metal1_conn'.
+  info: Assign pin label "BL3" at (8.0500, 27.3500) to layer `metal1_conn'.
+  info: Assign pin label "BLn4" at (8.7500, 27.3500) to layer `metal1_conn'.
+  info: Assign pin label "BL4" at (10.6500, 27.3500) to layer `metal1_conn'.
+
+***** End of Label Report *****
+
+
+***** Begin Label Report *****
+
+ Label in cell 'Array layout MemArray':
+  info: Assign pin label "EQ1" at (1.5700, 6.1300) to layer `poly_conn'.
+  info: Assign pin label "SE1" at (0.9200, 7.7600) to layer `poly_conn'.
+  info: Assign pin label "EQ2" at (4.4300, 6.1300) to layer `poly_conn'.
+  info: Assign pin label "SE2" at (3.6700, 7.7550) to layer `poly_conn'.
+  info: Assign pin label "WL4" at (0.4300, 11.9500) to layer `poly_conn'.
+  info: Assign pin label "SEn1" at (2.7200, 10.5300) to layer `poly_conn'.
+  info: Assign pin label "EQ3" at (7.5300, 6.1200) to layer `poly_conn'.
+  info: Assign pin label "SE3" at (6.5300, 7.7350) to layer `poly_conn'.
+  info: Assign pin label "SEn2" at (5.5300, 10.5000) to layer `poly_conn'.
+  info: Assign pin label "WL3" at (0.2800, 15.9400) to layer `poly_conn'.
+  info: Assign pin label "EQ4" at (10.3700, 6.1300) to layer `poly_conn'.
+  info: Assign pin label "SE4" at (9.3200, 7.7400) to layer `poly_conn'.
+  info: Assign pin label "SEn3" at (8.3700, 10.5200) to layer `poly_conn'.
+  info: Assign pin label "WL2" at (0.3700, 19.9500) to layer `poly_conn'.
+  info: Assign pin label "SEn4" at (11.1700, 10.5300) to layer `poly_conn'.
+  info: Assign pin label "WL1" at (0.2800, 24.0000) to layer `poly_conn'.
+  info: Assign pin label "BLn1" at (0.9500, 27.3500) to layer `metal1_conn'.
+  info: Assign pin label "BL1" at (2.8500, 27.3500) to layer `metal1_conn'.
+  info: Assign pin label "BLn2" at (3.5500, 27.3500) to layer `metal1_conn'.
+  info: Assign pin label "BL2" at (5.4500, 27.3500) to layer `metal1_conn'.
+  info: Assign pin label "BLn3" at (6.1500, 27.3500) to layer `metal1_conn'.
+  info: Assign pin label "BL3" at (8.0500, 27.3500) to layer `metal1_conn'.
+  info: Assign pin label "BLn4" at (8.7500, 27.3500) to layer `metal1_conn'.
+  info: Assign pin label "BL4" at (10.6500, 27.3500) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

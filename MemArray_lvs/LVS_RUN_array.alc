@@ -1,0 +1,4 @@
+!<alc> v1 30
+0    6    0 SenseAmplifier layout MemArray
+0    5    0 SRAMCell layout MemArray
+0    7    0 Array layout MemArray

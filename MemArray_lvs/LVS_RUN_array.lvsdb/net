@@ -1,0 +1,24 @@
+; Assura generated file -- DO NOT EDIT --
+; Do NOT rely on the content of this file, it may change.
+;
+2 bind match unmatched shorts opens
+1 4 ((S "vdd!")(1 "I35" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I36" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I37" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I38" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I72" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I73" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I74" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I76" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I77" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I78" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I79" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I75" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I80" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I81" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I82" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I84" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I85" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I86" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I87" ( "vdd!")))
+1 4 ((S "vdd!")(1 "I83" ( "vdd!")))

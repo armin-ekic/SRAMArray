@@ -1,0 +1,19 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'ArrayTest layout MemArray':
+  info: Assign pin label "WL" at (0.1700, 2.5300) to layer `poly_conn'.
+  info: Assign pin label "gnd!" at (1.4000, 2.9500) to layer `metal1_conn'.
+  info: Assign pin label "BLn1" at (0.4700, 5.9300) to layer `metal1_conn'.
+  info: Assign pin label "gnd!" at (3.9000, 2.9500) to layer `metal1_conn'.
+  info: Assign pin label "vdd!" at (1.4000, 5.5400) to layer `metal1_conn'.
+  info: Assign pin label "BL1" at (2.3200, 5.8800) to layer `metal1_conn'.
+  info: Assign pin label "BLn2" at (3.0200, 5.8800) to layer `metal1_conn'.
+  info: Assign pin label "vdd!" at (3.9000, 5.5500) to layer `metal1_conn'.
+  WARN: Nets C6 and C3 are associated with the same label "vdd!".
+        Net label "vdd!" at (3.9000, 5.5500) renamed vdd!_avC6.
+  info: Assign pin label "BL2" at (4.8300, 5.9200) to layer `metal1_conn'.
+        Net label "vdd!" is renamed to vdd!_avC3 on net C3.
+
+***** End of Label Report *****
+

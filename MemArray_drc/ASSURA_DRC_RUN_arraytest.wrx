@@ -1,0 +1,7 @@
+*WARNING* Nets C3 and C1 are associated with the same label "gnd!" at (3.9000, 2.9500). See .erc file  for  details.
+*WARNING* 1 same-label  warning  found in cell 'ArrayTest layout MemArray'.
+*WARNING* Nets C3 and C1 are associated with the same label "gnd!" at (3.9000, 2.9500). See .erc file  for  details.
+*WARNING* Nets C7 and C4 are associated with the same label "vdd!" at (3.9000, 5.5500). See .erc file  for  details.
+*WARNING* 2 same-label  warnings found in cell 'ArrayTest layout MemArray'.
+*WARNING* Nets C6 and C3 are associated with the same label "vdd!" at (3.9000, 5.5500). See .erc file  for  details.
+*WARNING* 1 same-label  warning  found in cell 'ArrayTest layout MemArray'.

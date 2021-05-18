@@ -1,0 +1,12 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'SRAMCell layout MemArray':
+  info: Assign pin label "WL" at (1.0400, 0.0400) to layer `poly_conn'.
+  info: Assign pin label "BLn" at (0.6700, -0.0600) to layer `metal1_conn'.
+  info: Assign pin label "BL" at (1.4200, -0.0600) to layer `metal1_conn'.
+  info: Assign pin label "gnd!" at (1.0300, 0.8300) to layer `metal1_conn'.
+  info: Assign pin label "vdd!" at (1.0200, 2.5800) to layer `metal1_conn'.
+
+***** End of Label Report *****
+

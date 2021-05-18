@@ -1,0 +1,35 @@
+@(#)$CDS: nvn_64 version av4.1:Production:dfII6.1.7-64b:IC6.1.7-64b.78 03/22/2016 21:54 (sjfnl623) $
+sub-version 4.1_USR5_HF2, integ signature 2016-03-22-2131
+run on ece121207504l at Sun Apr 25 13:31:47 2021
+
+Schematic                        | Layout                         | Status
+-------------------------------------------------------------------------------
+SenseAmplifier schematic MemArray| SenseAmplifier layout MemArray | matched 
+
+Schematic and Layout Match
+
+Schematic:
+  Library:MemArray
+  Cell   :SenseAmplifier
+  View   :schematic
+
+Layout:
+  Library:MemArray
+  Cell   :SenseAmplifier
+  View   :layout
+
+
+
+Extraction  Information
+--------------------
+     0 cells have 0 mal-formed device problems
+     0 cells have 0 label short problems
+     0 cells have 0 label open problems
+
+Mismatch  Information
+--------------------
+     0 cells have 0 Net mismatches
+     0 cells have 0 Device mismatches
+     0 cells have 0 Pin mismatches
+     0 cells have 0 Parameter mismatches
+
